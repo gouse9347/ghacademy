@@ -40,7 +40,7 @@ const slideBackward = ()=>{
                             <span>GH Academy, Nandyal</span>
                         </div>
                     </div>
-                    <p>Choosing to pursue my degree at Edusity was one of the best decisions I've ever made. The supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.</p>
+                    <p>I had a great learning experience at GH Academy. The trainers explained every concept step by step and made sure we understood the basics before moving ahead. The projects and assignments gave me practical knowledge that I can now apply in real situations.</p>
                 </div>
             </li>
             <li>
@@ -52,7 +52,7 @@ const slideBackward = ()=>{
                             <span>GH Academy, Nandyal</span>
                         </div>
                     </div>
-                    <p>Choosing to pursue my degree at Edusity was one of the best decisions I've ever made. The supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.</p>
+                    <p>I joined GH Academy with zero coding knowledge, but now I can build websites and understand data analysis. The structured course and friendly environment made learning easy.I feel industry-ready because of the strong foundation I got here.</p>
                 </div>
             </li>
             <li>
@@ -64,7 +64,7 @@ const slideBackward = ()=>{
                             <span>GH Academy, Nandyal</span>
                         </div>
                     </div>
-                    <p>Choosing to pursue my degree at Edusity was one of the best decisions I've ever made. The supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.</p>
+                    <p>GH Academy gave me not only knowledge but also the confidence to use it in real life. The trainers were very supportive and gave personal attention whenever we faced difficulties. The learning environment was friendly, and motivated us to do our best.</p>
                 </div>
             </li>
             <li>
@@ -76,7 +76,7 @@ const slideBackward = ()=>{
                             <span>GH Academy, Nandyal</span>
                         </div>
                     </div>
-                    <p>Choosing to pursue my degree at Edusity was one of the best decisions I've ever made. The supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.</p>
+                    <p>I am really happy with the training at GH Academy. The course material was updated, and the labs had everything we needed to practice. The mentors guided us patiently and helped us focus on practical applications rather than just theory.</p>
                 </div>
             </li>
         </ul>

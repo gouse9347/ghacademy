@@ -1,10 +1,10 @@
 import React from 'react'
 import { Link } from 'react-scroll';
 import './Campus.css'
-import gallery_1 from '../../assets/institute4.jpg'
-import gallery_2 from '../../assets/institute2.jpg'
-import gallery_3 from '../../assets/institute1.jpg'
-import gallery_4 from '../../assets/institute3.jpg'
+import gallery_1 from '../../assets/chatgpt1.png'
+import gallery_2 from '../../assets/chatgpt2.png'
+import gallery_3 from '../../assets/chatgpt3.png'
+import gallery_4 from '../../assets/chatgpt4.png'
 import white_arrow from '../../assets/white-arrow.png'
 
 const Campus = () => {
